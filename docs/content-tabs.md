@@ -40,3 +40,13 @@ This is some examples of content tabs.
 
     main();
     ```
+## Few more examples
+=== "Python"
+
+    ```py
+    def main():
+        print("New content!")
+
+    if __name__ == "__main__":
+        main()
+    ```
